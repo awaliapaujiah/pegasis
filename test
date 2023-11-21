@@ -1,0 +1,7 @@
+#!/bin/bash
+cd tcl/ex
+ns pegasis.tcl
+sleep 2
+
+cd ../../
+./pegasis_test
